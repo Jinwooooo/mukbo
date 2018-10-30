@@ -1,14 +1,12 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
 title: 브라운더스트 먹뽀 길드
-email: 길마(뽀송) / 부길마(오르 & 도갈)
 brand: 먹뽀
 headline: 길드전 승리지향 (힘조절)
 description: > # this means to ignore newlines until "baseurl:"
-  길드원 현황 : 35/35
-  현재 길드원 모집 안하고 있습니다~
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
+url: "https://jinwooooo.github.io/mukbo/" # the base hostname & protocol for your site
 maintain : Baloo
 # copyright: Baloo
 

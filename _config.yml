@@ -14,7 +14,7 @@ maintain : Baloo
 markdown: kramdown
 
 # Account ids
-snapwidget: 247552
+# snapwidget: 247552
 
 # Contacts
 newmember: https://open.kakao.com/o/gbcCGHL
@@ -22,4 +22,4 @@ opentalk: https://open.kakao.com/o/gO2WNBL
 gwtalk: https://open.kakao.com/o/gV3TS6L
 
 # Tracking
-googleAnalitycsID: # UA-83933844-1
+# googleAnalitycsID: # UA-83933844-1

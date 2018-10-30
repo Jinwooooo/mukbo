@@ -1,14 +1,16 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
-email: your-email@domain.com
-brand: Your Name
-headline: Inventor, Engineer and Futurist
+title: 브라운더스트 먹뽀 길드
+email: 길마(뽀송) / 부길마(오르 & 도갈)
+brand: 먹뽀
+headline: 길드전 승리지향 (힘조절)
 description: > # this means to ignore newlines until "baseurl:"
-  New Site
+  길드원 현황 : 35/35
+  현재 길드원 모집 안하고 있습니다~
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
-copyright: 2016 Whatever Company, Inc. All Rights Reserved.
+maintain : Baloo
+# copyright: Baloo
 
 # Build settings
 markdown: kramdown
@@ -17,9 +19,9 @@ markdown: kramdown
 snapwidget: 247552
 
 # Contacts
-email: your.name@gmail.com
-phone: +1-800-555-2016
+newmember: https://open.kakao.com/o/gbcCGHL
+opentalk: https://open.kakao.com/o/gO2WNBL
+gwtalk: https://open.kakao.com/o/gV3TS6L
 
 # Tracking
-googleAnalitycsID: UA-83933844-1
-
+googleAnalitycsID: # UA-83933844-1

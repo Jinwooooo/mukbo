@@ -2,7 +2,7 @@
 # in the templates available like {{ site.myvariable }}.
 title: 브라운더스트 먹뽀 길드
 brand: 먹뽀
-headline: 길드전 승리지향 (힘조절)
+headline: 길드전 고계 7먹
 description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
